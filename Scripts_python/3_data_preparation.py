@@ -13,7 +13,7 @@ documents = list(collection.find())
 
 data_list = []
 
-# # Extraire les données de premier niveau de chaque document
+# Extraire données depuis document JSON
 for document in documents:
     data = {
         '_id': document.get('_id'),
@@ -42,6 +42,7 @@ def convert_date(date_string):
         date = datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S%z')
     return date.strftime('%Y-%m-%d')
 
+# data préparation
 data['DAY'].fillna(15, inplace=True)
 mean_latitude = data['LATITUDE'].mean()
 mean_longitude = data['LONGITUDE'].mean()
@@ -56,8 +57,6 @@ for row in data.itertuples():
         'DAY': row.DAY,
         'LATITUDE': row.LATITUDE,
         'DATE': row.DATE
-        # Ajoutez d'autres champs à mettre à jour ici
     }})
 
-# # Afficher les données après la préparation
-print(data)
+# print(data)
