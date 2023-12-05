@@ -1,0 +1,46 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230526_184437 
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les données : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230526_184437 
+Nom du fichier de logs : logs-CMD-ETL-20230526_184437.txt 
+ 
+ 
+Phase 1 Extraction de données 
+ 
+ 
+Extraction de données terminée 
+Timestamp : 20230526_184437 
+ 
+------------------------------------------- 
+ 
+Phase 2 Extraction de données par webscraping 
+ 
+C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_webscraping_20230526_184437 
+https://www.inaturalist.org/observations/163829283
+https://www.inaturalist.org/observations/163828597
+https://www.inaturalist.org/observations/163817899
+https://www.inaturalist.org/observations/163813471
+https://www.inaturalist.org/observations/163809367
+https://www.inaturalist.org/observations/163806238
+https://www.inaturalist.org/observations/163802279
+https://www.inaturalist.org/observations/163800986
+https://www.inaturalist.org/observations/163799926
+https://www.inaturalist.org/observations/163799595
+https://www.inaturalist.org/observations/163799436
+https://www.inaturalist.org/observations/163795985
+https://www.inaturalist.org/observations/163786057
+https://www.inaturalist.org/observations/163785281
+https://www.inaturalist.org/observations/163785274
+Found: 15 search results in 1 pages. Extracting links from 0:15
+image : https://static.inaturalist.org/photos/283343794/large.jpg
+date : 2023-04-24T18:54:32+02:00
+latitude, longitude : 52.606216 24.514915
+ 
+Extraction de données webscraping terminée 
+Timestamp : 20230526_184513 
+ 
+------------------------------------------- 
+ 
+Phase 3 Transformation des données dans KNIME 
+ 

@@ -1,0 +1,18 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230609_183516 
+Chemin vers repertoire de travail : C:\Users\pauline\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les données : C:\Users\pauline\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230609_183516 
+Nom du fichier de logs : logs-CMD-ETL-20230609_183516.txt 
+ 
+ 
+Phase 1 Extraction de données 
+ 
+page 1 , 40 observations
+page 2 , 40 observations
+page 3 , 40 observations
+page 4 , 40 observations
+page 5 , 40 observations
+page 6 , 40 observations
+page 7 , 40 observations
+page 8 , 20 observations

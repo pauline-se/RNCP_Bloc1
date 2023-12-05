@@ -1,0 +1,43 @@
+--------------------------------------DEBUT--SCRIPT---------------------------------------------- 
+ 
+Timestamp : 20231015_134727 
+Chemin vers repertoire de travail : C:\Users\Pauline\Documents\Formation\RNCP\Bloc1 
+Chemin vers le dossier où extraire les donnees : C:\Users\Pauline\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\API\ 
+Nom du fichier de logs : logs-CMD-ETL-20231015_134727.txt 
+ 
+ 
+--------------------Phase 1 Extraction de donnees par webscraping--------------------------------- 
+ 
+C:\Users\Pauline\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\WEBSCRAPING\ 
+ 
+Extraction de donnes webscraping terminee 
+Timestamp : 20231015_134739 
+ 
+-----------------------Fin de phase 1 Webscraping------------------------------------------------- 
+ 
+----------------------Phase 2 Extraction de donnees via API -------------------------------------- 
+ 
+page 1 , 10 observations
+page 2 , 10 observations
+page 3 , 10 observations
+ 
+Extraction de donnees terminee 
+Timestamp : 20231015_134742 
+ 
+----------------------Fin de phase 2 Extraction de donnees via API--------------------------------- 
+ 
+----------------------Phase 3 Transformation des donnees dans KNIME-------------------------------- 
+ 
+CompileCommand: exclude javax/swing/text/GlyphView.getBreakSpot bool exclude = true
+ 
+Transformation des donnees dans KNIME terminee 
+Timestamp : 20231015_134805 
+ 
+----------------------Fin de phase 3 Transformation des donnees dans KNIME--------------------------- 
+ 
+----------------------Phase 4 Preparation des donnees par script python avec bibiothèque Pandas--- 
+ 
+ 
+---------------Fin de phase 4 Prepartion des donnees par script python avec bibiothèque Pandas--- 
+ 
+------------------------------------FIN--SCRIPT--------------------------------------------------- 

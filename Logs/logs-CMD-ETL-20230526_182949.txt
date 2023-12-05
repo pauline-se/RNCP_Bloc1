@@ -1,0 +1,68 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230526_182949 
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les données : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230526_182949 
+Nom du fichier de logs : logs-CMD-ETL-20230526_182949.txt 
+ 
+ 
+Phase 1 Extraction de données 
+ 
+ 
+Extraction de données terminée 
+Timestamp : 20230526_182949 
+ 
+------------------------------------------- 
+ 
+Phase 2 Extraction de données par webscraping 
+ 
+C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_webscraping_20230526_182949 
+https://www.inaturalist.org/observations/163829283
+https://www.inaturalist.org/observations/163828597
+https://www.inaturalist.org/observations/163817899
+https://www.inaturalist.org/observations/163813471
+https://www.inaturalist.org/observations/163809367
+Found: 5 search results in 1 pages. Extracting links from 0:5
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg
+date : 2023-05-24T16:00:00+02:00
+place : Cudrefin
+latitude, longitude : 46.975227 7.052465
+{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}
+[{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}]
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283402092/large.jpeg
+date : 2023-05-26T16:43:00+02:00
+place : Kenzingen, Deutschland
+latitude, longitude : 48.181105 7.77929
+{'URL': 'https://www.inaturalist.org/observations/163828597', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283402092/large.jpeg', 'date_obs': '2023-05-26T16:43:00+02:00', 'lieu': 'Kenzingen, Deutschland', 'latitude': 48.181105, 'longitude': 7.77929}
+[{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}, {'URL': 'https://www.inaturalist.org/observations/163828597', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283402092/large.jpeg', 'date_obs': '2023-05-26T16:43:00+02:00', 'lieu': 'Kenzingen, Deutschland', 'latitude': 48.181105, 'longitude': 7.77929}]
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg
+date : 2023-05-21T14:50:00+02:00
+place : Kaltbrunn, Schweiz
+latitude, longitude : 47.210975 8.985722
+{'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}
+[{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}, {'URL': 'https://www.inaturalist.org/observations/163828597', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283402092/large.jpeg', 'date_obs': '2023-05-26T16:43:00+02:00', 'lieu': 'Kenzingen, Deutschland', 'latitude': 48.181105, 'longitude': 7.77929}, {'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}]
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283403632/large.jpeg
+date : 2019-12-19T17:00:00+01:00
+place : 51290 Arrigny, France
+latitude, longitude : 48.578084 4.703062
+{'URL': 'https://www.inaturalist.org/observations/163829283', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283403632/large.jpeg', 'date_obs': '2019-12-19T17:00:00+01:00', 'lieu': '51290 Arrigny, France', 'latitude': 48.578084, 'longitude': 4.703062}
+[{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}, {'URL': 'https://www.inaturalist.org/observations/163828597', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283402092/large.jpeg', 'date_obs': '2023-05-26T16:43:00+02:00', 'lieu': 'Kenzingen, Deutschland', 'latitude': 48.181105, 'longitude': 7.77929}, {'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}, {'URL': 'https://www.inaturalist.org/observations/163829283', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283403632/large.jpeg', 'date_obs': '2019-12-19T17:00:00+01:00', 'lieu': '51290 Arrigny, France', 'latitude': 48.578084, 'longitude': 4.703062}]
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg
+date : 2023-05-23T21:46:00+02:00
+place : Holy Island, Berwick-upon-Tweed TD15, UK
+latitude, longitude : 55.670152 -1.801072
+{'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}
+[{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}, {'URL': 'https://www.inaturalist.org/observations/163828597', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283402092/large.jpeg', 'date_obs': '2023-05-26T16:43:00+02:00', 'lieu': 'Kenzingen, Deutschland', 'latitude': 48.181105, 'longitude': 7.77929}, {'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}, {'URL': 'https://www.inaturalist.org/observations/163829283', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283403632/large.jpeg', 'date_obs': '2019-12-19T17:00:00+01:00', 'lieu': '51290 Arrigny, France', 'latitude': 48.578084, 'longitude': 4.703062}, {'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}]
+FIN DE LA BOUCLE
+[{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}, {'URL': 'https://www.inaturalist.org/observations/163828597', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283402092/large.jpeg', 'date_obs': '2023-05-26T16:43:00+02:00', 'lieu': 'Kenzingen, Deutschland', 'latitude': 48.181105, 'longitude': 7.77929}, {'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}, {'URL': 'https://www.inaturalist.org/observations/163829283', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283403632/large.jpeg', 'date_obs': '2019-12-19T17:00:00+01:00', 'lieu': '51290 Arrigny, France', 'latitude': 48.578084, 'longitude': 4.703062}, {'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': 42184, 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}]
+Extraction_inaturalist_webscrapping_2023-05-26_18-30-49-755.json
+.\Extract_files_webscraping\Extraction_inaturalist_webscrapping_2023-05-26_18-30-49-755.json
+.\Extract_files_webscraping
+ 
+Extraction de données webscraping terminée 
+Timestamp : 20230526_183053 
+ 
+------------------------------------------- 
+ 
+Phase 3 Transformation des données dans KNIME 
+ 

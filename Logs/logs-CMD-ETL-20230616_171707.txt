@@ -1,0 +1,23 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230616_171707 
+Chemin vers repertoire de travail : C:\Users\pauline\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les données : C:\Users\pauline\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\API\ 
+Nom du fichier de logs : logs-CMD-ETL-20230616_171707.txt 
+ 
+ 
+Phase 1 Extraction de données 
+ 
+ 
+Extraction de données terminée 
+Timestamp : 20230616_171707 
+ 
+------------------------------------------- 
+ 
+Phase 2 Extraction de données par webscraping 
+ 
+Commande ECHO activ�e.
+ 
+Extraction de données webscraping terminée 
+Timestamp : 20230616_171707 
+ 

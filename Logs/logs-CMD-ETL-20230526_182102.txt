@@ -1,0 +1,75 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230526_182102 
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les données : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230526_182102 
+Nom du fichier de logs : logs-CMD-ETL-20230526_182102.txt 
+ 
+ 
+Phase 1 Extraction de données 
+ 
+ 
+Extraction de données terminée 
+Timestamp : 20230526_182102 
+ 
+------------------------------------------- 
+ 
+Phase 2 Extraction de données par webscraping 
+ 
+C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_webscraping_20230526_182102 
+https://www.inaturalist.org/observations/163829283
+https://www.inaturalist.org/observations/163828597
+https://www.inaturalist.org/observations/163817899
+https://www.inaturalist.org/observations/163813471
+https://www.inaturalist.org/observations/163809367
+https://www.inaturalist.org/observations/163806238
+https://www.inaturalist.org/observations/163802279
+https://www.inaturalist.org/observations/163800986
+https://www.inaturalist.org/observations/163799926
+https://www.inaturalist.org/observations/163799595
+https://www.inaturalist.org/observations/163799436
+https://www.inaturalist.org/observations/163795985
+https://www.inaturalist.org/observations/163786057
+https://www.inaturalist.org/observations/163785281
+https://www.inaturalist.org/observations/163785274
+Found: 15 search results in 1 pages. Extracting links from 0:15
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg
+date : 2023-05-23T21:46:00+02:00
+place : Holy Island, Berwick-upon-Tweed TD15, UK
+latitude, longiture : 55.670152 -1.801072
+{'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}
+[{'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}]
+image : https://static.inaturalist.org/photos/283350898/large.png
+date : 2023-05
+place : Valle d'Aosta, IT-AO, IT
+latitude, longiture : 45.673767 7.554899
+{'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}
+[{'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}, {'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}]
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283326323/large.jpg
+date : 2023-05-20T10:24:00+02:00
+place : Helsinki, Maunulanpuisto, Suomi
+latitude, longiture : 60.2225 24.9155
+{'URL': 'https://www.inaturalist.org/observations/163786057', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283326323/large.jpg', 'date_obs': '2023-05-20T10:24:00+02:00', 'lieu': 'Helsinki, Maunulanpuisto, Suomi', 'latitude': 60.2225, 'longitude': 24.9155}
+[{'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}, {'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}, {'URL': 'https://www.inaturalist.org/observations/163786057', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283326323/large.jpg', 'date_obs': '2023-05-20T10:24:00+02:00', 'lieu': 'Helsinki, Maunulanpuisto, Suomi', 'latitude': 60.2225, 'longitude': 24.9155}]
+image : https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg
+date : 2023-05-24T16:00:00+02:00
+place : Cudrefin
+latitude, longiture : 46.975227 7.052465
+{'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}
+[{'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}, {'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}, {'URL': 'https://www.inaturalist.org/observations/163786057', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283326323/large.jpg', 'date_obs': '2023-05-20T10:24:00+02:00', 'lieu': 'Helsinki, Maunulanpuisto, Suomi', 'latitude': 60.2225, 'longitude': 24.9155}, {'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}]
+image : https://static.inaturalist.org/photos/283350374/large.png
+date : 2023-05
+place : Valle d'Aosta, IT-AO, IT
+latitude, longiture : 45.796835 7.489448
+{'URL': 'https://www.inaturalist.org/observations/163799595', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350374/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.796835, 'longitude': 7.489448}
+[{'URL': 'https://www.inaturalist.org/observations/163817899', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283370288/large.jpeg', 'date_obs': '2023-05-23T21:46:00+02:00', 'lieu': 'Holy Island, Berwick-upon-Tweed TD15, UK', 'latitude': 55.670152, 'longitude': -1.801072}, {'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}, {'URL': 'https://www.inaturalist.org/observations/163786057', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283326323/large.jpg', 'date_obs': '2023-05-20T10:24:00+02:00', 'lieu': 'Helsinki, Maunulanpuisto, Suomi', 'latitude': 60.2225, 'longitude': 24.9155}, {'URL': 'https://www.inaturalist.org/observations/163813471', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283376538/large.jpeg', 'date_obs': '2023-05-24T16:00:00+02:00', 'lieu': 'Cudrefin', 'latitude': 46.975227, 'longitude': 7.052465}, {'URL': 'https://www.inaturalist.org/observations/163799595', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350374/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.796835, 'longitude': 7.489448}]
+image : https://static.inaturalist.org/photos/283343794/large.jpg
+date : 2023-04-24T18:54:32+02:00
+place :  
+Extraction de données webscraping terminée 
+Timestamp : 20230526_182208 
+ 
+------------------------------------------- 
+ 
+Phase 3 Transformation des données dans KNIME 
+ 

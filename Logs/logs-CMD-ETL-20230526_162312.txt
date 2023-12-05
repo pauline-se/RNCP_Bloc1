@@ -1,0 +1,149 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230526_162312 
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les données : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230526_162312 
+Nom du fichier de logs : logs-CMD-ETL-20230526_162312.txt 
+ 
+ 
+Phase 1 Extraction de données 
+ 
+ 
+Extraction de données terminée 
+Timestamp : 20230526_162312 
+ 
+------------------------------------------- 
+ 
+Phase 2 Extraction de données par webscraping 
+ 
+https://www.inaturalist.org/observations/163813471
+https://www.inaturalist.org/observations/163813471
+https://www.inaturalist.org/observations/163809367
+https://www.inaturalist.org/observations/163809367
+https://www.inaturalist.org/observations/163806238
+https://www.inaturalist.org/observations/163806238
+https://www.inaturalist.org/observations/163802279
+https://www.inaturalist.org/observations/163802279
+https://www.inaturalist.org/observations/163800986
+https://www.inaturalist.org/observations/163800986
+https://www.inaturalist.org/observations/163799926
+https://www.inaturalist.org/observations/163799926
+https://www.inaturalist.org/observations/163799595
+https://www.inaturalist.org/observations/163799595
+https://www.inaturalist.org/observations/163799436
+https://www.inaturalist.org/observations/163799436
+https://www.inaturalist.org/observations/163798373
+https://www.inaturalist.org/observations/163798373
+https://www.inaturalist.org/observations/163795985
+https://www.inaturalist.org/observations/163795985
+https://www.inaturalist.org/observations/163786057
+https://www.inaturalist.org/observations/163786057
+https://www.inaturalist.org/observations/163785281
+https://www.inaturalist.org/observations/163785281
+https://www.inaturalist.org/observations/163785274
+https://www.inaturalist.org/observations/163785274
+https://www.inaturalist.org/observations/163785263
+https://www.inaturalist.org/observations/163785263
+https://www.inaturalist.org/observations/163784483
+https://www.inaturalist.org/observations/163784483
+https://www.inaturalist.org/observations/163783064
+https://www.inaturalist.org/observations/163782406
+https://www.inaturalist.org/observations/163781518
+https://www.inaturalist.org/observations/163780447
+https://www.inaturalist.org/observations/163778441
+https://www.inaturalist.org/observations/163773019
+https://www.inaturalist.org/observations/163727649
+https://www.inaturalist.org/observations/163727613
+https://www.inaturalist.org/observations/163717892
+https://www.inaturalist.org/observations/163716473
+https://www.inaturalist.org/observations/163710602
+https://www.inaturalist.org/observations/163700719
+https://www.inaturalist.org/observations/163700586
+https://www.inaturalist.org/observations/163695295
+https://www.inaturalist.org/observations/163695230
+https://www.inaturalist.org/observations/163694830
+https://www.inaturalist.org/observations/163689218
+https://www.inaturalist.org/observations/163687200
+https://www.inaturalist.org/observations/163684966
+https://www.inaturalist.org/observations/163679639
+https://www.inaturalist.org/observations/163671060
+https://www.inaturalist.org/observations/163666636
+https://www.inaturalist.org/observations/163664127
+https://www.inaturalist.org/observations/163663703
+https://www.inaturalist.org/observations/163651546
+https://www.inaturalist.org/observations/163644547
+https://www.inaturalist.org/observations/163638655
+https://www.inaturalist.org/observations/163634653
+https://www.inaturalist.org/observations/163632415
+https://www.inaturalist.org/observations/163626041
+https://www.inaturalist.org/observations/163625913
+https://www.inaturalist.org/observations/163620778
+https://www.inaturalist.org/observations/163619084
+https://www.inaturalist.org/observations/163618317
+https://www.inaturalist.org/observations/163615698
+https://www.inaturalist.org/observations/163612822
+https://www.inaturalist.org/observations/163612560
+https://www.inaturalist.org/observations/163609169
+https://www.inaturalist.org/observations/163608940
+https://www.inaturalist.org/observations/163608810
+https://www.inaturalist.org/observations/163607888
+https://www.inaturalist.org/observations/163605086
+https://www.inaturalist.org/observations/163595576
+https://www.inaturalist.org/observations/163568554
+https://www.inaturalist.org/observations/163566187
+https://www.inaturalist.org/observations/163561935
+https://www.inaturalist.org/observations/163543306
+https://www.inaturalist.org/observations/163541638
+https://www.inaturalist.org/observations/163534002
+https://www.inaturalist.org/observations/163532508
+https://www.inaturalist.org/observations/163525675
+https://www.inaturalist.org/observations/163521919
+https://www.inaturalist.org/observations/163518232
+https://www.inaturalist.org/observations/163516543
+https://www.inaturalist.org/observations/163514864
+https://www.inaturalist.org/observations/163514264
+https://www.inaturalist.org/observations/163510703
+https://www.inaturalist.org/observations/163508991
+https://www.inaturalist.org/observations/163505064
+https://www.inaturalist.org/observations/163503127
+https://www.inaturalist.org/observations/163502226
+https://www.inaturalist.org/observations/163502130
+https://www.inaturalist.org/observations/163500266
+https://www.inaturalist.org/observations/163497157
+https://www.inaturalist.org/observations/163497002
+https://www.inaturalist.org/observations/163487863
+https://www.inaturalist.org/observations/163485000
+https://www.inaturalist.org/observations/163477386
+https://www.inaturalist.org/observations/163473695
+https://www.inaturalist.org/observations/163468404
+https://www.inaturalist.org/observations/163461546
+https://www.inaturalist.org/observations/163460085
+https://www.inaturalist.org/observations/163455649
+https://www.inaturalist.org/observations/163454557
+https://www.inaturalist.org/observations/163453485
+https://www.inaturalist.org/observations/163452026
+https://www.inaturalist.org/observations/163447620
+https://www.inaturalist.org/observations/163437336
+https://www.inaturalist.org/observations/163432616
+https://www.inaturalist.org/observations/163382527
+https://www.inaturalist.org/observations/163374787
+Found: 15 search results in 1 pages. Extracting links from 0:15
+https://static.inaturalist.org/photos/283350898/large.png
+2023-05
+Valle d'Aosta, IT-AO, IT
+{'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': <built-in function id>, 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}
+https://static.inaturalist.org/photos/283343794/large.jpg
+2023-04-24T18:54:32+02:00
+ 
+Extraction de données webscraping terminée 
+Timestamp : 20230526_162401 
+ 
+------------------------------------------- 
+ 
+Phase 3 Transformation des données dans KNIME 
+ 
+ 
+Transformation des données dans KNIME terminée 
+Timestamp : 20230526_162418 
+ 
+-----------FIN--SCRIPT----------------- 

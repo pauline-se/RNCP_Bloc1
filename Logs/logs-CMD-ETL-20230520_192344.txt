@@ -1,0 +1,21 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230520_192344 
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les données : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230520_192344 
+Nom du fichier de logs : logs-CMD-ETL-20230520_192344.txt 
+ 
+ 
+Phase 1 Extraction de données 
+ 
+page 1 , 40 observations
+page 2 , 40 observations
+page 3 , 20 observations
+ 
+Extraction de données terminée 
+Timestamp : 20230520_192349 
+ 
+------------------------------------------- 
+ 
+Phase 2 Transformation des données dans KNIME 
+ 

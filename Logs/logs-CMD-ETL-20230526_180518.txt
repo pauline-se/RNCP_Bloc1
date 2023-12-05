@@ -1,0 +1,64 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230526_180518 
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier o√π extraire les donn√©es : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230526_180518 
+Nom du fichier de logs : logs-CMD-ETL-20230526_180518.txt 
+ 
+ 
+Phase 1 Extraction de donn√©es 
+ 
+ 
+Extraction de donn√©es termin√©e 
+Timestamp : 20230526_180518 
+ 
+------------------------------------------- 
+ 
+Phase 2 Extraction de donn√©es par webscraping 
+ 
+https://www.inaturalist.org/observations/163829283
+https://www.inaturalist.org/observations/163828597
+https://www.inaturalist.org/observations/163817899
+https://www.inaturalist.org/observations/163813471
+https://www.inaturalist.org/observations/163809367
+https://www.inaturalist.org/observations/163806238
+https://www.inaturalist.org/observations/163802279
+https://www.inaturalist.org/observations/163800986
+https://www.inaturalist.org/observations/163799926
+https://www.inaturalist.org/observations/163799595
+https://www.inaturalist.org/observations/163799436
+https://www.inaturalist.org/observations/163795985
+https://www.inaturalist.org/observations/163786057
+https://www.inaturalist.org/observations/163785281
+https://www.inaturalist.org/observations/163785274
+Found: 15 search results in 1 pages. Extracting links from 0:15
+None
+2023-05-26T11:08:06+02:00
+Amstetten, ÷sterreich
+{'URL': 'https://www.inaturalist.org/observations/163785281', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': None, 'date_obs': '2023-05-26T11:08:06+02:00', 'lieu': 'Amstetten, ÷sterreich', 'latitude': 48.105135, 'longitude': 14.924813}
+[{'URL': 'https://www.inaturalist.org/observations/163785281', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': None, 'date_obs': '2023-05-26T11:08:06+02:00', 'lieu': 'Amstetten, ÷sterreich', 'latitude': 48.105135, 'longitude': 14.924813}]
+https://static.inaturalist.org/photos/283350131/large.png
+2023-05
+Valle d'Aosta, IT-AO, IT
+{'URL': 'https://www.inaturalist.org/observations/163799436', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350131/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.776687, 'longitude': 7.437027}
+[{'URL': 'https://www.inaturalist.org/observations/163785281', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': None, 'date_obs': '2023-05-26T11:08:06+02:00', 'lieu': 'Amstetten, ÷sterreich', 'latitude': 48.105135, 'longitude': 14.924813}, {'URL': 'https://www.inaturalist.org/observations/163799436', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350131/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.776687, 'longitude': 7.437027}]
+https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg
+2023-05-21T14:50:00+02:00
+Kaltbrunn, Schweiz
+{'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}
+[{'URL': 'https://www.inaturalist.org/observations/163785281', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': None, 'date_obs': '2023-05-26T11:08:06+02:00', 'lieu': 'Amstetten, ÷sterreich', 'latitude': 48.105135, 'longitude': 14.924813}, {'URL': 'https://www.inaturalist.org/observations/163799436', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350131/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.776687, 'longitude': 7.437027}, {'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}]
+https://static.inaturalist.org/photos/283350898/large.png
+2023-05
+Valle d'Aosta, IT-AO, IT
+{'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}
+[{'URL': 'https://www.inaturalist.org/observations/163785281', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': None, 'date_obs': '2023-05-26T11:08:06+02:00', 'lieu': 'Amstetten, ÷sterreich', 'latitude': 48.105135, 'longitude': 14.924813}, {'URL': 'https://www.inaturalist.org/observations/163799436', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350131/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.776687, 'longitude': 7.437027}, {'URL': 'https://www.inaturalist.org/observations/163809367', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://inaturalist-open-data.s3.amazonaws.com/photos/283368689/large.jpeg', 'date_obs': '2023-05-21T14:50:00+02:00', 'lieu': 'Kaltbrunn, Schweiz', 'latitude': 47.210975, 'longitude': 8.985722}, {'URL': 'https://www.inaturalist.org/observations/163799926', 'TAXON_ID': '42184', 'URL_PHOTO_MEDIUM': 'https://static.inaturalist.org/photos/283350898/large.png', 'date_obs': '2023-05', 'lieu': "Valle d'Aosta, IT-AO, IT", 'latitude': 45.673767, 'longitude': 7.554899}]
+https://static.inaturalist.org/photos/283343794/large.jpg
+2023-04-24T18:54:32+02:00
+ 
+Extraction de donn√©es webscraping termin√©e 
+Timestamp : 20230526_180622 
+ 
+------------------------------------------- 
+ 
+Phase 3 Transformation des donn√©es dans KNIME 
+ 

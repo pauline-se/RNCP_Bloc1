@@ -1,0 +1,54 @@
+---------DEBUT--SCRIPT-----------------  91347.txt
+  91347.txt
+Timestamp : 20230528_ 91347  91347.txt
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\  91347.txt
+Chemin vers le dossier où extraire les données : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230528_ 91347  91347.txt
+Nom du fichier de logs : logs-CMD-ETL-20230528_ 91347.txt  91347.txt
+  91347.txt
+  91347.txt
+Phase 1 Extraction de données  91347.txt
+  91347.txt
+  91347.txt
+Extraction de données terminée  91347.txt
+Timestamp : 20230528_ 91347  91347.txt
+  91347.txt
+-------------------------------------------  91347.txt
+  91347.txt
+Phase 2 Extraction de données par webscraping  91347.txt
+  91347.txt
+C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_webscraping_20230528_ 91347  91347.txt
+  91347.txt
+Extraction de données webscraping terminée  91347.txt
+Timestamp : 20230528_ 91352  91347.txt
+  91347.txt
+-------------------------------------------  91347.txt
+  91347.txt
+Phase 3 Transformation des données dans KNIME  91347.txt
+  91347.txt
+---------DEBUT--SCRIPT-----------------  92208.txt
+  92208.txt
+Timestamp : 20230528_ 92208  92208.txt
+Chemin vers repertoire de travail : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\  92208.txt
+Chemin vers le dossier où extraire les données : C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_20230528_ 92208  92208.txt
+Nom du fichier de logs : logs-CMD-ETL-20230528_ 92208.txt  92208.txt
+  92208.txt
+  92208.txt
+Phase 1 Extraction de données  92208.txt
+  92208.txt
+  92208.txt
+Extraction de données terminée  92208.txt
+Timestamp : 20230528_ 92208  92208.txt
+  92208.txt
+-------------------------------------------  92208.txt
+  92208.txt
+Phase 2 Extraction de données par webscraping  92208.txt
+  92208.txt
+C:\Users\pauli\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\Extract_files_webscraping_20230528_ 92208  92208.txt
+  92208.txt
+Extraction de données webscraping terminée  92208.txt
+Timestamp : 20230528_ 92213  92208.txt
+  92208.txt
+-------------------------------------------  92208.txt
+  92208.txt
+Phase 3 Transformation des données dans KNIME  92208.txt
+  92208.txt

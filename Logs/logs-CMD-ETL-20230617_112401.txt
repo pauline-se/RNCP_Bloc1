@@ -1,0 +1,38 @@
+---------DEBUT--SCRIPT----------------- 
+ 
+Timestamp : 20230617_112401 
+Chemin vers repertoire de travail : C:\Users\pauline\Documents\Formation\RNCP\Bloc1\ 
+Chemin vers le dossier où extraire les donnees : C:\Users\pauline\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\API\ 
+Nom du fichier de logs : logs-CMD-ETL-20230617_112401.txt 
+ 
+ 
+Phase 1 Extraction de donnees 
+ 
+page 1 , 10 observations
+page 2 , 10 observations
+page 3 , 10 observations
+ 
+Extraction de donnees terminee 
+Timestamp : 20230617_112421 
+ 
+------------------------------------------- 
+ 
+Phase 2 Extraction de donnees par webscraping 
+ 
+C:\Users\Pauline\Documents\Formation\RNCP\Bloc1\Data\A_TRAITER\WEBSCRAPING\ 
+ 
+Extraction de donnes webscraping terminee 
+Timestamp : 20230617_112703 
+ 
+------------------------------------------- 
+ 
+Phase 3 Transformation des donnees dans KNIME 
+ 
+CompileCommand: exclude javax/swing/text/GlyphView.getBreakSpot bool exclude = true
+ 
+Transformation des donnees dans KNIME terminee 
+Timestamp : 20230617_112723 
+ 
+Phase 4 Transformation des donnees dans KNIME 
+ 
+-----------FIN--SCRIPT----------------- 
